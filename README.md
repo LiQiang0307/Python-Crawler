@@ -31,3 +31,11 @@ https://blog.csdn.net/qq_41251963/article/details/81666808
 
 python爬虫——校花网(校花网.py)
 https://blog.csdn.net/qq_41251963/article/details/81697433
+
+
+python爬虫——爬取电影天堂磁力链接(电影天堂磁力链接.py)
+https://blog.csdn.net/qq_41251963/article/details/82153574
+
+
+python爬虫——全书网存取入库（全书网.py）
+https://blog.csdn.net/qq_41251963/article/details/82312777
