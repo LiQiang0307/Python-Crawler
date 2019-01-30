@@ -9,3 +9,6 @@ https://blog.csdn.net/qq_41251963/article/details/86700200
 
 获取猫眼Top100信息，存入到mysql，及txt文件（猫眼top100.py）
 
+
+python爬取今日头条图片(今日头条.py)
+https://blog.csdn.net/qq_41251963/article/details/81604134
