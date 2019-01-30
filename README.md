@@ -16,3 +16,6 @@ https://blog.csdn.net/qq_41251963/article/details/81604134
 
 python爬取梨视频（梨视频.py）
 https://blog.csdn.net/qq_41251963/article/details/82949553
+
+python爬取知乎专栏用户评论信息（知乎评论.py）
+https://blog.csdn.net/qq_41251963/article/details/82873326
