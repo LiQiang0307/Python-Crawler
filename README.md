@@ -19,3 +19,7 @@ https://blog.csdn.net/qq_41251963/article/details/82949553
 
 python爬取知乎专栏用户评论信息（知乎评论.py）
 https://blog.csdn.net/qq_41251963/article/details/82873326
+
+
+几行代码爬取喜马拉雅音乐(喜马拉雅.py)
+https://blog.csdn.net/qq_41251963/article/details/82859498
