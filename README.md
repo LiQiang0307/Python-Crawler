@@ -23,3 +23,11 @@ https://blog.csdn.net/qq_41251963/article/details/82873326
 
 几行代码爬取喜马拉雅音乐(喜马拉雅.py)
 https://blog.csdn.net/qq_41251963/article/details/82859498
+
+
+
+python爬虫——爬取酷狗音乐top500(BeautifulSoup使用方法)（酷狗音乐.py）
+https://blog.csdn.net/qq_41251963/article/details/81666808
+
+python爬虫——校花网(校花网.py)
+https://blog.csdn.net/qq_41251963/article/details/81697433
