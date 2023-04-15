@@ -40,3 +40,6 @@ https://blog.csdn.net/qq_41251963/article/details/82153574
 
 python爬虫——全书网存取入库（全书网.py）
 https://blog.csdn.net/qq_41251963/article/details/82312777
+
+getArxivPaper
+根据整理好的arxiv论文链接，批量下载论文到本地
