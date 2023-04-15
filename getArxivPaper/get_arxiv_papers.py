@@ -16,8 +16,7 @@ with open('README.md','r',encoding='utf-8')as f:
     # print(data)
     for i in data:
         try:
-            # pattern = re.compile(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+') # 匹配模式
-            url = re.findall(r'\d+\.\d+v\d',str(i))#匹配2和0之前的数据
+            url = re.findall(r'\d+\.\d+v\d',str(i))
             urlList.append(f"http://arxiv.org/abs/{url[0]}")
             print(f"http://arxiv.org/abs/{url}")
         except:
