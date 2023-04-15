@@ -33,7 +33,7 @@ for url in urlList:
         html=bs = BeautifulSoup(html, 'html.parser')
         content=bs.find_all(["h1"])
         title=re.findall('<span class="descriptor">Title:</span>(.*?)</h1>',str(content))
-        urllib.request.urlretrieve(url, f"{title[0].replace(':','')}.pdf")
+        urllib.request.urlretrieve(url.replace("abs","pdf"), f"{title[0].replace(':','')}.pdf")
         print("正在爬取：",url,title[0])
     except:
         pass
